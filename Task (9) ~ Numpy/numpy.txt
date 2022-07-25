@@ -1,0 +1,11 @@
+1. Please complete the Udacity NumPy quiz
+2. Write a NumPy program to create a structured array from given student 
+name, height, class and their data types. Then sort the array on height 
+[I know that I haven’t explained how to sort, but please search how to do 
+☺]
+3. Kindly solve the following equations using both NumPy & SciPy, and see 
+if there’s a time difference or not:
+• x + 2y - 3z + 2w = 30
+• 2x - 5y + 4z + 9w = 4 
+• -5x + 40y – z – 20w = -6
+• 5x - 4y – z + 60w = 5
